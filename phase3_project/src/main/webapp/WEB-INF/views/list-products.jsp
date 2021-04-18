@@ -122,6 +122,7 @@
         
         <input type="submit" value="Generate Report by Date"/> </div>
 	</form>
+	<small style="color: white;">Please Enter Date format like YY/MM//DD</small>
 	</div>
 	<br/>
 		<div>
@@ -135,7 +136,6 @@
         <input type="submit" value="Generate Report by Category"/></div>
 	</form>
 	</div>
-	
 	
 	
 
